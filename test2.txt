@@ -14,7 +14,7 @@ Major GIT commands:
         email = user@domain.com
     git init
 
-    Initializes a git repository – creates the initial ‘.git’ directory in a new or in an existing project.
+    Initializes a git repository ï¿½ creates the initial ï¿½.gitï¿½ directory in a new or in an existing project.
 
     Example: cd /home/user/my_new_git_folder/
     git init
@@ -39,8 +39,8 @@ Major GIT commands:
 
     Takes all of the changes written in the index, creates a new commit object pointing to it and sets the branch to point to that new commit.
 
-    Examples: git commit -m ‘committing added changes’
-    git commit -a -m ‘committing all changes, equals to git add and git commit’
+    Examples: git commit -m ï¿½committing added changesï¿½
+    git commit -a -m ï¿½committing all changes, equals to git add and git commitï¿½
     git status
 
     Shows you the status of files in the index versus the working directory. It will list out files that are untracked (only in your working directory), modified (tracked but not yet updated in your index), and staged (added to your index and ready for committing).
@@ -57,14 +57,14 @@ Major GIT commands:
     nothing added to commit but untracked files present (use "git add" to track)
     git branch
 
-    Lists existing branches, including remote branches if ‘-a’ is provided. Creates a new branch if a branch name is provided.
+    Lists existing branches, including remote branches if ï¿½-aï¿½ is provided. Creates a new branch if a branch name is provided.
 
     Example: git branch -a
     * master
       remotes/origin/master
     git checkout
 
-    Checks out a different branch – switches branches by updating the index, working tree, and HEAD to reflect the chosen branch.
+    Checks out a different branch ï¿½ switches branches by updating the index, working tree, and HEAD to reflect the chosen branch.
 
     Example: git checkout newbranch
     git merge
@@ -79,7 +79,7 @@ Major GIT commands:
     Example: git reset --hard HEAD
     git stash
 
-    Temporarily saves changes that you don’t want to commit immediately. You can apply the changes later.
+    Temporarily saves changes that you donï¿½t want to commit immediately. You can apply the changes later.
 
     Example: git stash
     Saved working directory and index state "WIP on master: 84f241e first commit"
@@ -227,3 +227,5 @@ wiki.phys.ethz.ch/readme/advanced_git_hints
 [3:00:35 PM] jitendra kasaudhan: timile deko ma naya kura rai6 maile paia dekhe ko thiye na shallow clone ,i will try it ani inform gar6u hai ta
 [3:01:06 PM] pratuat: la la try gara (y)
 [3:01:30 PM] jitendra kasaudhan: ok
+
+http://wiki.phys.ethz.ch/readme/advanced_git_hints >>>>>>>>>>>>>>
