@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 first change..
 edited in github.
 
+=======
+first change..
+>>>>>>> parent of b043311... file changed using github editor.
