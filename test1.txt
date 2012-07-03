@@ -5,4 +5,4 @@ this is test1 git log -SFoo -- path_containing_change .
 first file added.
 
 
-line added in test1
+line added in test1....odiei
