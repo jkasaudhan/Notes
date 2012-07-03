@@ -1,5 +1,5 @@
-test 2 added
-Major GIT commands:
+﻿test 2 added
+Major GIT commands:dfdgfdg
 
     git config
 
